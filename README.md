@@ -35,3 +35,12 @@ as a Workspace within Visual Studio Code.
 
 
 - The PDF also written with LaTeX that outlines each member's contribution in the group project, as well as the coordinator.
+
+## Copyright Holders
+- **Ascalone** Sara
+- **De Col** Emilio
+- **Malamisura** Federica
+- **Radice** Jacopo
+- **Rossi** Lisa
+
+All rights reserved - 2024.
